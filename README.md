@@ -157,7 +157,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbhishekGiri04&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbhishekGiri04&theme=dark&hide_border=true&layout=compact&hide=html,css,scss,less&langs_count=8" alt="Top Languages" />
 </div>
 
 ---
