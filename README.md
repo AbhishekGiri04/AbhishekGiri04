@@ -63,7 +63,7 @@
   <a href="https://portfolio-abhinova.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000&color=4ECDC4" alt="Portfolio" />
   </a>
-  <a href="http://www.linkedin.com/in/abhi" target="_blank">
+  <a href="https://www.linkedin.com/in/abhishek-giri04/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=45B7D1" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/AbhishekGiri0405/" target="_blank">
