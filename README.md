@@ -31,7 +31,7 @@
 ⚡ **Proficient in end-to-end software development lifecycle** - from conceptualization and system design to deployment and optimization, with expertise in DevOps practices and collaborative development methodologies.
 
 ### 🎯 Current Focus:
-- 🎓 **Final Year Computer Science Engineering Student**
+- 🎓 **3rd Year Computer Science Engineering Student (Pre-Final)**
 - 💻 **Developing next-generation software solutions and AI-powered applications**
 - 🔧 **Contributing to open-source projects and building impactful technology**
 - 🌱 **Exploring emerging tech stacks: Web3, Blockchain, and Advanced ML/DL frameworks**
