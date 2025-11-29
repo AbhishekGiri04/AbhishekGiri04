@@ -24,17 +24,18 @@
 
 ## 🌟 About Me
 
-🚀 **Motivated Computer Science undergraduate** with hands-on experience in full-stack development, AI/ML, and IoT systems.
+🚀 **Passionate Computer Science undergraduate** specializing in full-stack development, artificial intelligence, and IoT ecosystems. With a strong foundation in modern programming paradigms and emerging technologies.
 
-💡 **Skilled in building scalable, real-time, and user-centric platforms** using modern web technologies and cloud services.
+💡 **Expert in architecting scalable, high-performance applications** that deliver exceptional user experiences through cutting-edge web technologies, cloud infrastructure, and data-driven solutions.
 
-⚡ **Adept at problem-solving, automation pipelines, and collaborative software engineering.**
+⚡ **Proficient in end-to-end software development lifecycle** - from conceptualization and system design to deployment and optimization, with expertise in DevOps practices and collaborative development methodologies.
 
 ### 🎯 Current Focus:
-- 🎓 **3rd Year Computer Science Student**
-- 💻 **Passionate about creating innovative solutions**
-- 🔧 **Building the future, one line of code at a time**
-- 🌱 **Always learning and exploring new technologies**
+- 🎓 **Final Year Computer Science Engineering Student**
+- 💻 **Developing next-generation software solutions and AI-powered applications**
+- 🔧 **Contributing to open-source projects and building impactful technology**
+- 🌱 **Exploring emerging tech stacks: Web3, Blockchain, and Advanced ML/DL frameworks**
+- 🚀 **Seeking opportunities in software engineering and AI research roles**
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="300">
