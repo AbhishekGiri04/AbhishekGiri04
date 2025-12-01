@@ -157,29 +157,33 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AbhishekGiri04&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekGiri04&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekGiri04&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekGiri04&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbhishekGiri04&theme=dark&hide_border=true&layout=compact&hide=html,css,scss,less&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekGiri04&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&exclude_repo=AbhishekGiri04" alt="Top Languages" />
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies:
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbhishekGiri04&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AbhishekGiri04&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
 
 ## 📊 LeetCode Stats:
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/AbhishekGiri0405?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/AbhishekGiri0405?theme=unicorn&font=Karma&ext=contest" alt="LeetCode Stats" />
+</div>
+
+<div align="center">
+  <img src="https://leetcode-stats-six.vercel.app/?username=AbhishekGiri0405&theme=dark" alt="LeetCode Stats Alternative" />
 </div>
 
 ---
