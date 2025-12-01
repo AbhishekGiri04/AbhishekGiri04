@@ -103,6 +103,7 @@
 ### 🚀 Frameworks and Libraries:
 <p align="center">
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React.js" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
   <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
@@ -161,7 +162,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekGiri04&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=AbhishekGiri04&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -206,10 +207,10 @@
 ---
 
 ## 💡 Core Expertise:
-- 🤖 **Machine Learning and Deep Learning**
-- 🔤 **Natural Language Processing (NLP)**
+- 🧠 **Machine Learning and Deep Learning**
+- 🧩 **Natural Language Processing (NLP)**
 - 📊 **Data Structures and Algorithms**
-- 🏗️ **Object-Oriented Programming**
+- 🌀 **Object-Oriented Programming**
 - 💻 **Operating Systems and DBMS**
 - 🌐 **Networking and Cloud Computing**
 - 🎯 **Leadership and Problem Solving**
