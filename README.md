@@ -162,7 +162,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekGiri04&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=AbhishekGiri04&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -180,7 +180,7 @@
 
 ## 📊 LeetCode Stats:
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/AbhishekGiri0405?theme=nord&font=Karma&ext=activity" alt="LeetCode Stats" />
+  <img src="https://leetcode-stats.vercel.app/api?username=AbhishekGiri0405&theme=dark" alt="LeetCode Stats" />
 </div>
 
 ---
