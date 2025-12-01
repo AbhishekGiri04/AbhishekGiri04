@@ -24,18 +24,18 @@
 
 ## 🌟 About Me
 
-🚀 **Passionate Computer Science undergraduate** specializing in full-stack development, artificial intelligence, and IoT ecosystems. With a strong foundation in modern programming paradigms and emerging technologies.
+🚀 **Computer Science undergraduate driven by a passion for full-stack engineering, artificial intelligence, and IoT-driven systems.** I excel at transforming ideas into scalable, high-performance applications built on modern architectures and emerging technologies.
 
-💡 **Expert in architecting scalable, high-performance applications** that deliver exceptional user experiences through cutting-edge web technologies, cloud infrastructure, and data-driven solutions.
+💡 **Skilled in creating intuitive, data-driven digital experiences,** leveraging cloud infrastructure, advanced web technologies, and intelligent automation.
 
-⚡ **Proficient in end-to-end software development lifecycle** - from conceptualization and system design to deployment and optimization, with expertise in DevOps practices and collaborative development methodologies.
+⚡ **Experienced across the complete software development lifecycle**—from conceptual design to deployment, optimization, and DevOps-oriented workflows—ensuring reliability, speed, and engineering excellence.
 
 ### 🎯 Current Focus:
-- 🎓 **3rd Year Computer Science Engineering Student (Pre-Final)**
-- 💻 **Developing next-generation software solutions and AI-powered applications**
-- 🔧 **Contributing to open-source projects and building impactful technology**
-- 🌱 **Exploring emerging tech stacks: Web3, Blockchain, and Advanced ML/DL frameworks**
-- 🚀 **Seeking opportunities in software engineering and AI research roles**
+- 🎓 **Pre-final year Computer Science Engineering student**
+- 💻 **Building next-gen software solutions and AI-enabled applications**
+- 🔧 **Actively contributing to open-source and developing impactful tech**
+- 🌱 **Exploring frontier stacks: Web3, Blockchain, and advanced ML/DL frameworks**
+- 🚀 **Seeking roles in Software Engineering and AI/ML Research, where innovation meets real-world impact**
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="300">
@@ -89,11 +89,12 @@
 
 ### 🔤 Languages:
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
@@ -103,19 +104,23 @@
 <p align="center">
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React.js" />
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
   <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
   <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
 </p>
 
-### 🗄️ Databases:
+### 🗜️ Databases:
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
 </p>
 
 ### ☁️ Cloud and Deployment:
@@ -134,6 +139,8 @@
   <img src="https://img.shields.io/badge/VS%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="PyCharm" />
   <img src="https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
 ### 🔌 IoT and Hardware:
