@@ -180,7 +180,7 @@
 
 ## 📊 LeetCode Stats:
 <div align="center">
-  <img src="https://leetcode-stats.vercel.app/api?username=AbhishekGiri0405&theme=dark" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/AbhishekGiri0405?theme=dark&font=Karma" alt="LeetCode Stats" />
 </div>
 
 ---
