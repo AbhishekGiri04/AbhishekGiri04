@@ -173,14 +173,14 @@
 
 ## 🏆 GitHub Trophies:
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbhishekGiri04&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AbhishekGiri04&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&row=2" alt="GitHub Trophies" />
 </div>
 
 ---
 
 ## 📊 LeetCode Stats:
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/AbhishekGiri0405?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/AbhishekGiri0405?theme=dark&font=Sora&ext=heatmap" alt="LeetCode Stats" />
 </div>
 
 ---
