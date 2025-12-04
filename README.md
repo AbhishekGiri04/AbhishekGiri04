@@ -173,9 +173,11 @@
 ---
 
 ## 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbhishekGiri04&theme=darkhub&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</p>
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AbhishekGiri04&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
