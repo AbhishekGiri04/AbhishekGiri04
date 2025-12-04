@@ -172,11 +172,13 @@
 
 ---
 
-## 🏆 GitHub Trophies:
+## 🏆 GitHub Achievements:
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AbhishekGiri04&theme=onedark&no-frame=false&no-bg=false&margin-w=4&column=-1" alt="GitHub Trophies" />
-  </a>
+  <img src="https://img.shields.io/badge/Total%20Stars-50+-blue?style=for-the-badge&logo=github&logoColor=white" alt="Total Stars" />
+  <img src="https://img.shields.io/badge/Total%20Commits-500+-green?style=for-the-badge&logo=git&logoColor=white" alt="Total Commits" />
+  <img src="https://img.shields.io/badge/Total%20PRs-20+-purple?style=for-the-badge&logo=github&logoColor=white" alt="Total PRs" />
+  <img src="https://img.shields.io/badge/Total%20Issues-15+-red?style=for-the-badge&logo=github&logoColor=white" alt="Total Issues" />
+  <img src="https://img.shields.io/badge/Contributed%20to-10+-orange?style=for-the-badge&logo=github&logoColor=white" alt="Contributed" />
 </div>
 
 ---
