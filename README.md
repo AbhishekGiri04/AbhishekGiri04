@@ -171,10 +171,9 @@
 
 ---
 
-## 🏆 GitHub Achievements:
+## 🏆 GitHub Trophies:
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AbhishekGiri04&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&hide_title=true&hide_rank=true" alt="GitHub Achievements" width="400" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbhishekGiri04&theme=dark&hide_border=true&layout=compact&langs_count=6" alt="Top Languages" width="400" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AbhishekGiri04" alt="GitHub Trophies" />
 </div>
 
 ---
