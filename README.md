@@ -190,9 +190,9 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-## 📊 GitHub Contribution Stats
+<h2 align="center">🧩 GitHub Contribution Stats</h2>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AbhishekGiri04&theme=dark" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=AbhishekGiri04&theme=dark&hide_border=true)](https://git.io/streak-stats)
 <p align="center">
   <img src="https://pacman.abozanona.me?username=AbhishekGiri04" />
 </p>
@@ -232,6 +232,4 @@
   <br><br>
   <p><strong>Thanks for visiting my profile! Feel free to explore my repositories and connect with me.</strong></p>
   <p><strong>Let's build something amazing together! 🌟</strong></p>
-  <br>
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
