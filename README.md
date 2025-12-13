@@ -18,7 +18,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-<img align="right" height="300" src="https://github.com/user-attachments/assets/8a185987-a963-4d3f-bbff-c8176e299c76" alt="Laptop Person" />
+<img align="right" height="300" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" alt="Python Coding" />
 
 ## 🌟 About Me
 
