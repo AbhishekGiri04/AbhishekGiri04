@@ -18,10 +18,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
-</div>
-
 <img align="right" height="300" src="https://github.com/user-attachments/assets/8a185987-a963-4d3f-bbff-c8176e299c76" alt="Laptop Person" />
 
 ## 🌟 About Me
@@ -31,10 +27,6 @@
 - 🚀 **Hands-on experience in full-stack and AI-enabled applications using Python, Java, JavaScript, cloud platforms, and end-to-end ML pipelines**
 - 🏆 **Recognized for contributions in national-level hackathons and competitive AI/ML challenges**
 - 🎯 **Seeking opportunities in Software Engineering and AI/ML Research to drive impactful solutions**
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="300">
-</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhishekGiri04&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="GitHub Activity Graph" width="95%">
