@@ -57,7 +57,7 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000&color=4ECDC4" alt="Portfolio" />
   </a>
   <a href="https://agnix.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Agnix-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=00C7B7&color=00C7B7" alt="Agnix" />
+    <img src="https://img.shields.io/badge/Agnix-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=00C7B7&color=00C7B7" alt="Website" />
   </a>
   <a href="https://www.linkedin.com/in/abhishek-giri04/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=45B7D1" alt="LinkedIn" />
