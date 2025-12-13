@@ -190,22 +190,10 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-<div align="center">
-  <h2>🐍 Contribution Snake Game</h2>
-  <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="Snake" width="40" />
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbhishekGiri04/AbhishekGiri04/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbhishekGiri04/AbhishekGiri04/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AbhishekGiri04/AbhishekGiri04/output/github-contribution-grid-snake.svg" width="900">
-  </picture>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257481-9e9e7c6a-7a5a-4f1b-8188-5373f3108b91.gif" width="300">
-</div>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AbhishekGiri04&theme=dark" alt="GitHub Streak" /></a>
+<p align="center">
+  <img src="https://pacman.abozanona.me?username=AbhishekGiri04" />
+</p>
 
 ---
 
