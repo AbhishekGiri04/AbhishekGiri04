@@ -22,13 +22,25 @@
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 </div>
 
-## 🌟 About Me
+<h2 align="center">🌟 About Me</h2>
 
-- 🎓 **Pre-final year B.Tech CSE (AI & ML) student at Graphic Era Hill University (2023–2027).**
-- 💻 **Strong foundation in software engineering, system design, and scalable application development.**
-- 🚀 **Hands-on experience in full-stack and AI-enabled applications using Python, Java, JavaScript, cloud platforms, and end-to-end ML pipelines.**
-- 🏆 **Recognized for contributions in national-level hackathons and competitive AI/ML challenges.**
-- 🎯 **Seeking opportunities in Software Engineering and AI/ML Research to drive impactful solutions.**
+<table align="center">
+<tr>
+<td>
+
+🎓 **Pre-final year B.Tech CSE (AI & ML) student at Graphic Era Hill University (2023–2027)**
+
+💻 **Strong foundation in software engineering, system design, and scalable application development**
+
+🚀 **Hands-on experience in full-stack and AI-enabled applications using Python, Java, JavaScript, cloud platforms, and end-to-end ML pipelines**
+
+🏆 **Recognized for contributions in national-level hackathons and competitive AI/ML challenges**
+
+🎯 **Seeking opportunities in Software Engineering and AI/ML Research to drive impactful solutions**
+
+</td>
+</tr>
+</table>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="300">
@@ -106,7 +118,7 @@
 
 ## 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbhishekGiri04&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AbhishekGiri04&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
