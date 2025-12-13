@@ -1,4 +1,4 @@
-# AbhishekGiri04
+<h1 align="center">Heyyy, I'm</h1>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abhishek%20Giri&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
@@ -12,7 +12,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
 
-<h3 align="center">🚀 Motivated CSE Undergraduate | Full-Stack Developer | AI/ML and IoT Specialist</h3>
+<h3 align="center">💻 Aspiring Software Engineer | Full-Stack Developer | AI/ML and IoT Specialist</h3>
 
 ---
 
@@ -24,18 +24,18 @@
 
 ## 🌟 About Me
 
-🚀 **Computer Science undergraduate driven by a passion for full-stack engineering, artificial intelligence, and IoT-driven systems.** I excel at transforming ideas into scalable, high-performance applications built on modern architectures and emerging technologies.
+🚀 **AI/ML-focused Computer Science undergraduate with a strong software engineering foundation, building intelligent full-stack and IoT-enabled systems.**
 
-💡 **Skilled in creating intuitive, data-driven digital experiences,** leveraging cloud infrastructure, advanced web technologies, and intelligent automation.
+💡 **Proven experience delivering production-grade solutions using Python, Java, JavaScript, cloud platforms, and end-to-end machine learning pipelines.**
 
-⚡ **Experienced across the complete software development lifecycle**—from conceptual design to deployment, optimization, and DevOps-oriented workflows—ensuring reliability, speed, and engineering excellence.
+⚡ **Demonstrated impact through national-level hackathons, competitive ML challenges, and contributions to scalable, real-world applications.**
 
 ### 🎯 Current Focus:
-- 🎓 **Pre-final year Computer Science Engineering student**
-- 💻 **Building next-gen software solutions and AI-enabled applications**
-- 🔧 **Actively contributing to open-source and developing impactful tech**
-- 🌱 **Exploring frontier stacks: Web3, Blockchain, and advanced ML/DL frameworks**
-- 🚀 **Seeking roles in Software Engineering and AI/ML Research, where innovation meets real-world impact**
+- 🎓 **Pre-final year B.Tech CSE (AI & ML) student at Graphic Era Hill University, Dehradun (2023–2027).**
+- 💻 **Building next-generation software solutions and AI-enabled applications with a focus on scalability and performance.**
+- 🔧 **Actively contributing to open-source initiatives and developing impactful, real-world technology.**
+- 🌱 **Exploring advanced machine learning and deep learning frameworks alongside Web3 and blockchain technologies.**
+- 🚀 **Aspiring to Software Engineering and AI/ML Research roles where innovation translates into measurable impact.**
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="300">
