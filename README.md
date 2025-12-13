@@ -1,18 +1,9 @@
-# AbhishekGiri04
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abhishek%20Giri&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;AI-ML+Enthusiast;IoT+Systems+Developer;Problem+Solver;Always+Learning;&font=Fira%20Code&center=true&width=600&height=50&color=f75c7e&vCenter=true&pause=1000&size=22" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-</div>
-
+<h1 align="center">Heyyy, I'm Abhishek</h1>
 <h3 align="center">🚀 Motivated CSE Undergraduate | Full-Stack Developer | AI/ML and IoT Specialist</h3>
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Abhishek" width="100%">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhishekGiri04&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" /> </p>
 
 ---
 
@@ -190,22 +181,10 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-<div align="center">
-  <h2>🐍 Contribution Snake Game</h2>
-  <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="Snake" width="40" />
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbhishekGiri04/AbhishekGiri04/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbhishekGiri04/AbhishekGiri04/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AbhishekGiri04/AbhishekGiri04/output/github-contribution-grid-snake.svg" width="900">
-  </picture>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257481-9e9e7c6a-7a5a-4f1b-8188-5373f3108b91.gif" width="300">
-</div>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AbhishekGiri04&theme=dark" alt="GitHub Streak" /></a>
+<p align="center">
+  <img src="https://pacman.abozanona.me?username=AbhishekGiri04" alt="Contribution Graph" />
+</p>
 
 ---
 
@@ -227,11 +206,7 @@
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbhishekGiri04&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Footer" width="100%"/>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
