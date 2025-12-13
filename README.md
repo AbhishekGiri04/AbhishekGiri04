@@ -24,18 +24,11 @@
 
 ## 🌟 About Me
 
-🚀 **AI/ML-focused Computer Science undergraduate with a strong software engineering foundation, building intelligent full-stack and IoT-enabled systems.**
-
-💡 **Proven experience delivering production-grade solutions using Python, Java, JavaScript, cloud platforms, and end-to-end machine learning pipelines.**
-
-⚡ **Demonstrated impact through national-level hackathons, competitive ML challenges, and contributions to scalable, real-world applications.**
-
-### 🎯 Current Focus:
-- 🎓 **Pre-final year B.Tech CSE (AI & ML) student at Graphic Era Hill University, Dehradun (2023–2027).**
-- 💻 **Building next-generation software solutions and AI-enabled applications with a focus on scalability and performance.**
-- 🔧 **Actively contributing to open-source initiatives and developing impactful, real-world technology.**
-- 🌱 **Exploring advanced machine learning and deep learning frameworks alongside Web3 and blockchain technologies.**
-- 🚀 **Aspiring to Software Engineering and AI/ML Research roles where innovation translates into measurable impact.**
+- 🎓 **Pre-final year B.Tech CSE (AI & ML) student at Graphic Era Hill University (2023–2027).**
+- 💻 **Strong foundation in software engineering, system design, and scalable application development.**
+- 🚀 **Hands-on experience in full-stack and AI-enabled applications using Python, Java, JavaScript, cloud platforms, and end-to-end ML pipelines.**
+- 🏆 **Recognized for contributions in national-level hackathons and competitive AI/ML challenges.**
+- 🎯 **Seeking opportunities in Software Engineering and AI/ML Research to drive impactful solutions.**
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="300">
@@ -192,7 +185,6 @@
 
 <h2 align="center">🧩 GitHub Contribution Stats</h2>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AbhishekGiri04&theme=dark&hide_border=true)](https://git.io/streak-stats)
 <p align="center">
   <img src="https://pacman.abozanona.me?username=AbhishekGiri04" />
 </p>
