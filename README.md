@@ -22,25 +22,13 @@
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 </div>
 
-<h2 align="center">🌟 About Me</h2>
+## 🌟 About Me
 
-<table align="center">
-<tr>
-<td>
-
-🎓 **Pre-final year B.Tech CSE (AI & ML) student at Graphic Era Hill University (2023–2027)**
-
-💻 **Strong foundation in software engineering, system design, and scalable application development**
-
-🚀 **Hands-on experience in full-stack and AI-enabled applications using Python, Java, JavaScript, cloud platforms, and end-to-end ML pipelines**
-
-🏆 **Recognized for contributions in national-level hackathons and competitive AI/ML challenges**
-
-🎯 **Seeking opportunities in Software Engineering and AI/ML Research to drive impactful solutions**
-
-</td>
-</tr>
-</table>
+- 🎓 **Pre-final year B.Tech CSE (AI & ML) student at Graphic Era Hill University (2023–2027)**
+- 💻 **Strong foundation in software engineering, system design, and scalable application development**
+- 🚀 **Hands-on experience in full-stack and AI-enabled applications using Python, Java, JavaScript, cloud platforms, and end-to-end ML pipelines**
+- 🏆 **Recognized for contributions in national-level hackathons and competitive AI/ML challenges**
+- 🎯 **Seeking opportunities in Software Engineering and AI/ML Research to drive impactful solutions**
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="300">
@@ -67,6 +55,9 @@
   </a>
   <a href="https://portfolio-abhinova.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000&color=4ECDC4" alt="Portfolio" />
+  </a>
+  <a href="https://agnix.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Agnix-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=00C7B7&color=00C7B7" alt="Agnix" />
   </a>
   <a href="https://www.linkedin.com/in/abhishek-giri04/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=45B7D1" alt="LinkedIn" />
