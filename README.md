@@ -75,7 +75,7 @@
 
 ---
 
-## 💻 Tech Stack:
+## 🖥️ Tech Stack:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,typescript,cpp,c,html,css,react,nextjs,nodejs,express,flask,tensorflow,opencv,tailwind,mongodb,mysql,postgresql,aws,gcp,firebase,docker,postman,git,github,vscode,arduino" />
@@ -87,17 +87,9 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AbhishekGiri04&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AbhishekGiri04&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbhishekGiri04&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=AbhishekGiri04&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AbhishekGiri04&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekGiri04&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
