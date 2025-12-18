@@ -25,7 +25,7 @@
 ```yaml
 Role: Full Stack Developer & AI/ML Engineer
 Education: B.Tech CSE (AI & ML) | GEHU (2023-2027)
-Focus: Designing and building scalable, production-grade applications
+Focus: Designing & Building Scalable Applications
 Specialization: MERN Stack | AI/ML | IoT
 Expertise: Python, Java, JavaScript, Cloud, ML Pipelines
 ```
@@ -33,7 +33,7 @@ Expertise: Python, Java, JavaScript, Cloud, ML Pipelines
 **🎯 What I Bring:**
 - ✅ Full-stack development (Frontend + Backend + AI/ML)
 - ✅ Scalable architecture & database optimization
-- ✅ Machine learning model deployment and production integration
+- ✅ ML Model Deployment & Production Integration
 - ✅ National hackathon winner & problem solver
 - ✅ Open-source contributor
 
@@ -44,6 +44,18 @@ Expertise: Python, Java, JavaScript, Cloud, ML Pipelines
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## 🏆 Open Source Contributions
+
+<div align="center">
+
+[![Holopin Badges](https://holopin.me/abhishekgiri04)](https://holopin.io/@abhishekgiri04)
+
+*Actively contributing to open-source projects and earning recognition for collaboration & innovation*
+
+</div>
+
+---
 
 <div align="center">
   <h2>🌐 Connect With Me</h2>
