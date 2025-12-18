@@ -18,18 +18,26 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-<img align="right" height="300" src="https://github.com/user-attachments/assets/8a185987-a963-4d3f-bbff-c8176e299c76" alt="Laptop Person" />
+## 💼 Professional Summary
 
-## 🌟 About Me
+```yaml
+Role: Full Stack Developer & AI/ML Engineer
+Education: B.Tech CSE (AI & ML) | Graphic Era Hill University (2023-2027)
+Specialization: MERN Stack | AI/ML | IoT Systems
+Focus: Building scalable, production-ready applications
+Expertise: Python, Java, JavaScript, Cloud Platforms, ML Pipelines
+Approach: Clean code, system design, performance optimization
+```
 
-- 🎓 **Pre-final year B.Tech CSE (AI & ML) student at Graphic Era Hill University (2023–2027)**
-- 💻 **Strong foundation in software engineering, system design, and scalable application development**
-- 🚀 **Hands-on experience in full-stack and AI-enabled applications using Python, Java, JavaScript, cloud platforms, and end-to-end ML pipelines**
-- 🏆 **Recognized for contributions in national-level hackathons and competitive AI/ML challenges**
-- 🎯 **Seeking opportunities in Software Engineering and AI/ML Research to drive impactful solutions**
+**🎯 What I Bring to the Table:**
+- ✅ End-to-end full-stack development (Frontend + Backend + AI/ML)
+- ✅ Scalable system architecture & database optimization
+- ✅ Machine learning model deployment & MLOps
+- ✅ National-level hackathon winner & competitive programmer
+- ✅ Open-source contributor & tech community leader
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhishekGiri04&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="GitHub Activity Graph" width="95%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhishekGiri04&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true" alt="Contribution Activity Graph" width="95%">
 </div>
 
 ---
