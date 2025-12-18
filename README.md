@@ -45,18 +45,6 @@ Expertise: Python, Java, JavaScript, Cloud, ML Pipelines
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-## 🏆 Open Source Contributions
-
-<div align="center">
-
-[![Holopin Badges](https://holopin.me/abhishekgiri04)](https://holopin.io/@abhishekgiri04)
-
-*Actively contributing to open-source projects and earning recognition for collaboration & innovation*
-
-</div>
-
----
-
 <div align="center">
   <h2>🌐 Connect With Me</h2>
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
@@ -151,6 +139,7 @@ Expertise: Python, Java, JavaScript, Cloud, ML Pipelines
 
 <h2 align="center">🧩 GitHub Contribution Stats</h2>
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AbhishekGiri04&theme=dark" alt="GitHub Streak" /></a>
 <p align="center">
   <img src="https://pacman.abozanona.me?username=AbhishekGiri04" />
 </p>
