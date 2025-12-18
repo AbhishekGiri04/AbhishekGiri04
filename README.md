@@ -104,9 +104,18 @@ Expertise: Python, Java, JavaScript, Cloud, ML Pipelines
   <img src="https://nirzak-streak-stats.vercel.app/?user=AbhishekGiri04&theme=radical&hide_border=false" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekGiri04&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-</div>
+### 💻 Language Distribution
+
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbhishekGiri04&theme=github_dark" alt="Top Languages by Repository" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbhishekGiri04&theme=github_dark" alt="Top Languages by Commit" />
+    </td>
+  </tr>
+</table>
 
 ---
 
