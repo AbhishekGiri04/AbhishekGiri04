@@ -102,9 +102,11 @@
 ---
 
 ## 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbhishekGiri04&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=AbhishekGiri04&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+
+</div>
 
 ---
 
@@ -119,9 +121,9 @@
 
 <h2 align="center">🧩 GitHub Contribution Stats</h2>
 
-<p align="center">
-  <img src="https://pacman.abozanona.me?username=AbhishekGiri04" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhishekGiri04&theme=github-compact&hide_border=true&area=true" width="95%" />
+</div>
 
 ---
 
