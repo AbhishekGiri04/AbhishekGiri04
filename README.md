@@ -139,7 +139,6 @@ Expertise: Python, Java, JavaScript, Cloud, ML Pipelines
 
 <h2 align="center">🧩 GitHub Contribution Stats</h2>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AbhishekGiri04&theme=dark" alt="GitHub Streak" /></a>
 <p align="center">
   <img src="https://pacman.abozanona.me?username=AbhishekGiri04" />
 </p>
