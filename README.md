@@ -49,9 +49,9 @@ Expertise: Python, Java, JavaScript, Cloud, ML Pipelines
 
 <div align="center">
 
-[![Holopin Badges](https://holopin.me/abhishekgiri04)](https://holopin.io/@abhishekgiri04)
-
 *Actively contributing to open-source projects and earning recognition for collaboration & innovation*
+
+**🌟 Active contributor to various open-source repositories**
 
 </div>
 
