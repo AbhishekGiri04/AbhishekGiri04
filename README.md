@@ -18,23 +18,23 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
+<img align="right" height="250" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" />
+
 ## 💼 Professional Summary
 
 ```yaml
 Role: Full Stack Developer & AI/ML Engineer
-Education: B.Tech CSE (AI & ML) | Graphic Era Hill University (2023-2027)
-Specialization: MERN Stack | AI/ML | IoT Systems
-Focus: Building scalable, production-ready applications
-Expertise: Python, Java, JavaScript, Cloud Platforms, ML Pipelines
-Approach: Clean code, system design, performance optimization
+Education: B.Tech CSE (AI & ML) | GEHU (2023-2027)
+Specialization: MERN Stack | AI/ML | IoT
+Expertise: Python, Java, JavaScript, Cloud, ML Pipelines
 ```
 
-**🎯 What I Bring to the Table:**
-- ✅ End-to-end full-stack development (Frontend + Backend + AI/ML)
-- ✅ Scalable system architecture & database optimization
-- ✅ Machine learning model deployment & MLOps
-- ✅ National-level hackathon winner & competitive programmer
-- ✅ Open-source contributor & tech community leader
+**🎯 What I Bring:**
+- ✅ Full-stack development (Frontend + Backend + AI/ML)
+- ✅ Scalable architecture & database optimization
+- ✅ ML model deployment & MLOps workflows
+- ✅ National hackathon winner & problem solver
+- ✅ Open-source contributor
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhishekGiri04&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true" alt="Contribution Activity Graph" width="95%">
