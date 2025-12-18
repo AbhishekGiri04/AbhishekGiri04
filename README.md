@@ -18,13 +18,14 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-<img align="right" height="250" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" />
+<img align="right" height="300" src="https://github.com/user-attachments/assets/8a185987-a963-4d3f-bbff-c8176e299c76" alt="Laptop Person" />
 
 ## 💼 Professional Summary
 
 ```yaml
 Role: Full Stack Developer & AI/ML Engineer
 Education: B.Tech CSE (AI & ML) | GEHU (2023-2027)
+Focus: Designing and building scalable, production-grade applications
 Specialization: MERN Stack | AI/ML | IoT
 Expertise: Python, Java, JavaScript, Cloud, ML Pipelines
 ```
@@ -32,7 +33,7 @@ Expertise: Python, Java, JavaScript, Cloud, ML Pipelines
 **🎯 What I Bring:**
 - ✅ Full-stack development (Frontend + Backend + AI/ML)
 - ✅ Scalable architecture & database optimization
-- ✅ ML model deployment & MLOps workflows
+- ✅ Machine learning model deployment and production integration
 - ✅ National hackathon winner & problem solver
 - ✅ Open-source contributor
 
