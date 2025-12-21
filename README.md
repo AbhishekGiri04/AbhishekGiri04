@@ -121,9 +121,9 @@ Expertise: Python, Java, JavaScript, Cloud, ML Pipelines
 
 ## 🏆 GitHub Trophies:
 <div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=AbhishekGiri04&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-
+  <a href="https://github.com/AbhishekGiri04">
+    <img src="https://github-trophies.vercel.app/?username=AbhishekGiri04&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+  </a>
 </div>
 
 ---
