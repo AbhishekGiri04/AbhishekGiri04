@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;AI-ML+Enthusiast;IoT+Systems+Developer;Problem+Solver;Always+Learning;&font=Fira%20Code&center=true&width=600&height=50&color=f75c7e&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;AI-ML+Enthusiast;IoT+Systems+Developer;Problem+Solver;Always+Learning&font=Fira+Code&center=true&width=600&height=50&color=f75c7e&vCenter=true&pause=1000&size=22" />
 </div>
 
 <div align="center">
