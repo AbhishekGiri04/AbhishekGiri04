@@ -151,10 +151,10 @@ Expertise: Python, Java, JavaScript, Cloud, ML Pipelines
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Machine_Learning-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML"/>
+        <img src="https://img.shields.io/badge/Machine_Learning-FF6B6B?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="ML"/>
       </td>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Deep_Learning-4ECDC4?style=for-the-badge&logo=pytorch&logoColor=white" alt="DL"/>
+        <img src="https://img.shields.io/badge/Deep_Learning-4ECDC4?style=for-the-badge&logo=tensorflow&logoColor=white" alt="DL"/>
       </td>
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/Natural_Language_Processing-95E1D3?style=for-the-badge&logo=openai&logoColor=white" alt="NLP"/>
@@ -173,7 +173,7 @@ Expertise: Python, Java, JavaScript, Cloud, ML Pipelines
     </tr>
     <tr>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Database_Management-A8D8EA?style=for-the-badge&logo=postgresql&logoColor=white" alt="DBMS"/>
+        <img src="https://img.shields.io/badge/Database_Management-A8D8EA?style=for-the-badge&logo=mysql&logoColor=white" alt="DBMS"/>
       </td>
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/Cloud_Computing-FFD93D?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Cloud"/>
@@ -187,7 +187,7 @@ Expertise: Python, Java, JavaScript, Cloud, ML Pipelines
 
 ---
 
-### ✍️ Random Dev Quote:
+### ✍🏻 Random Dev Quote:
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
