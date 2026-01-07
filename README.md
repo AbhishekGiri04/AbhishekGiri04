@@ -157,7 +157,7 @@ Expertise: Python, Java, JavaScript, Cloud, ML Pipelines
         <img src="https://img.shields.io/badge/Deep_Learning-4ECDC4?style=for-the-badge&logo=tensorflow&logoColor=white" alt="DL"/>
       </td>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Natural_Language_Processing-95E1D3?style=for-the-badge&logo=openai&logoColor=white" alt="NLP"/>
+        <img src="https://img.shields.io/badge/Natural_Language_Processing-95E1D3?style=for-the-badge&logo=huggingface&logoColor=white" alt="NLP"/>
       </td>
     </tr>
     <tr>
@@ -165,7 +165,7 @@ Expertise: Python, Java, JavaScript, Cloud, ML Pipelines
         <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-F38181?style=for-the-badge&logo=leetcode&logoColor=white" alt="DSA"/>
       </td>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Object_Oriented_Programming-AA96DA?style=for-the-badge&logo=java&logoColor=white" alt="OOP"/>
+        <img src="https://img.shields.io/badge/Object_Oriented_Programming-AA96DA?style=for-the-badge&logo=cplusplus&logoColor=white" alt="OOP"/>
       </td>
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/Operating_Systems-FCBAD3?style=for-the-badge&logo=linux&logoColor=white" alt="OS"/>
@@ -176,7 +176,7 @@ Expertise: Python, Java, JavaScript, Cloud, ML Pipelines
         <img src="https://img.shields.io/badge/Database_Management-A8D8EA?style=for-the-badge&logo=mysql&logoColor=white" alt="DBMS"/>
       </td>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Cloud_Computing-FFD93D?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Cloud"/>
+        <img src="https://img.shields.io/badge/Cloud_Computing-FFD93D?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud"/>
       </td>
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/Problem_Solving-6BCB77?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Problem Solving"/>
