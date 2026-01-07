@@ -12,7 +12,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
 
-<h3 align="center">💻 Aspiring Software Engineer | Full-Stack Developer | AI/ML and IoT Specialist</h3>
+<h3 align="center">💻 Aspiring Software Engineer | Full-Stack Developer | AI/ML and IoT Explorer</h3>
 
 ---
 
@@ -23,7 +23,7 @@
 ## 💼 Professional Summary
 
 ```yaml
-Role: Full Stack Developer & AI/ML Engineer
+Role: Aspiring Full Stack Developer & AI/ML Engineer
 Education: B.Tech CSE (AI & ML) | GEHU (2023-2027)
 Focus: Designing & Building Scalable Applications
 Specialization: MERN Stack | AI/ML | IoT
