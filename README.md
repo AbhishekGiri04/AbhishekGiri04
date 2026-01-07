@@ -59,13 +59,13 @@ Expertise: Python, Java, JavaScript, Cloud, ML Pipelines
   <a href="https://portfolio-abhinova.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000&color=4ECDC4" alt="Portfolio" />
   </a>
-  <a href="https://agnix.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=00C7B7&color=00C7B7" alt="Website" />
+  <a href="https://agxdev.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=00C7B7&color=00C7B7" alt="Website" />
   </a>
   <a href="https://www.linkedin.com/in/abhishek-giri04/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=45B7D1" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/u/AbhishekGiri0405/" target="_blank">
+  <a href="https://leetcode.com/u/AbhishekGiri04/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116&color=F39C12" alt="LeetCode" />
   </a>
   <a href="https://linktr.ee/CodeAG.io" target="_blank">
@@ -87,7 +87,7 @@ Expertise: Python, Java, JavaScript, Cloud, ML Pipelines
 ## 🖥️ Tech Stack:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,typescript,cpp,c,html,css,react,nextjs,nodejs,express,flask,tensorflow,opencv,tailwind,mongodb,mysql,postgresql,aws,gcp,firebase,docker,postman,git,github,vscode,arduino" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,typescript,cpp,c,html,css,react,nextjs,nodejs,express,flask,tensorflow,opencv,tailwind,mongodb,mysql,aws,firebase,docker,git,github,vscode,arduino" />
 </p>
 
 ---
@@ -130,7 +130,7 @@ Expertise: Python, Java, JavaScript, Cloud, ML Pipelines
 
 ## 📊 LeetCode Stats:
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/AbhishekGiri0405?theme=dark" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/AbhishekGiri04?theme=dark" alt="LeetCode Stats" />
 </div>
 
 ---
