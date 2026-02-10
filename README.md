@@ -6,8 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=600&height=70&duration=3000&lines=Hey+Coders+!;I'm+Abhishek+Giri;&color=FFFFFF&repeat=true&pause=1500" />
 </h1>
 
-<br clear="right"/>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI-ML+Enthusiast;IoT+Systems+Developer;App+Developer;Open+Source+Contributor&font=Fira+Code&center=true&width=600&height=50&color=00D9FF&vCenter=true&pause=1500&size=22&repeat=true&duration=3000" />
 </div>
