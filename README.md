@@ -1,11 +1,15 @@
-<h1 align="center">Heyyy, I'm</h1>
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abhishek%20Giri&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,20&height=200&section=header&text=&fontSize=0" width="100%"/>
 </div>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hey+Coders+!;I'm+Abhishek+Giri;&color=FFFFFF&repeat=true&pause=500" />
+</h1>
+
+<br clear="right"/>
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;AI-ML+Enthusiast;IoT+Systems+Developer;Problem+Solver;Always+Learning&font=Fira+Code&center=true&width=600&height=50&color=f75c7e&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI-ML+Enthusiast;IoT+Systems+Developer;App+Developer;Open+Source+Contributor&font=Fira+Code&center=true&width=600&height=50&color=00D9FF&vCenter=true&pause=500&size=22&repeat=true" />
 </div>
 
 <div align="center">
@@ -189,7 +193,7 @@ Expertise: Python, Java, JavaScript, Cloud, ML Pipelines
 
 ### ✍🏻 Random Dev Quote:
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
 ---
@@ -198,7 +202,7 @@ Expertise: Python, Java, JavaScript, Cloud, ML Pipelines
   <img src="https://komarev.com/ghpvc/?username=AbhishekGiri04&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,20&height=150&section=footer&animation=twinkling" width="100%"/>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
