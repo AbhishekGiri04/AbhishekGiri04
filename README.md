@@ -3,13 +3,13 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hey+Coders+!;I'm+Abhishek+Giri;&color=FFFFFF&repeat=true&pause=500" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=600&height=70&duration=3000&lines=Hey+Coders+!;I'm+Abhishek+Giri;&color=FFFFFF&repeat=true&pause=1500" />
 </h1>
 
 <br clear="right"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI-ML+Enthusiast;IoT+Systems+Developer;App+Developer;Open+Source+Contributor&font=Fira+Code&center=true&width=600&height=50&color=00D9FF&vCenter=true&pause=500&size=22&repeat=true" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI-ML+Enthusiast;IoT+Systems+Developer;App+Developer;Open+Source+Contributor&font=Fira+Code&center=true&width=600&height=50&color=00D9FF&vCenter=true&pause=1500&size=22&repeat=true&duration=3000" />
 </div>
 
 <div align="center">
@@ -113,10 +113,10 @@ Expertise: Python, Java, JavaScript, Cloud, ML Pipelines
 <table align="center">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbhishekGiri04&theme=github_dark" alt="Top Languages by Repository" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbhishekGiri04&theme=radical" alt="Top Languages by Repository" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbhishekGiri04&theme=github_dark" alt="Top Languages by Commit" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbhishekGiri04&theme=radical" alt="Top Languages by Commit" />
     </td>
   </tr>
 </table>
@@ -155,10 +155,10 @@ Expertise: Python, Java, JavaScript, Cloud, ML Pipelines
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Machine_Learning-FF6B6B?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="ML"/>
+        <img src="https://img.shields.io/badge/Machine_Learning-FF6B6B?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
       </td>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Deep_Learning-4ECDC4?style=for-the-badge&logo=tensorflow&logoColor=white" alt="DL"/>
+        <img src="https://img.shields.io/badge/Deep_Learning-4ECDC4?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning"/>
       </td>
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/Natural_Language_Processing-95E1D3?style=for-the-badge&logo=huggingface&logoColor=white" alt="NLP"/>
@@ -166,24 +166,24 @@ Expertise: Python, Java, JavaScript, Cloud, ML Pipelines
     </tr>
     <tr>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-F38181?style=for-the-badge&logo=leetcode&logoColor=white" alt="DSA"/>
+        <img src="https://img.shields.io/badge/Database_Management-A8D8EA?style=for-the-badge&logo=mysql&logoColor=white" alt="DBMS"/>
       </td>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Object_Oriented_Programming-AA96DA?style=for-the-badge&logo=cplusplus&logoColor=white" alt="OOP"/>
+        <img src="https://img.shields.io/badge/Operating_Systems-FCBAD3?style=for-the-badge&logo=linux&logoColor=white" alt="Operating Systems"/>
       </td>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Operating_Systems-FCBAD3?style=for-the-badge&logo=linux&logoColor=white" alt="OS"/>
+        <img src="https://img.shields.io/badge/Cloud_Computing-FFD93D?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud Computing"/>
       </td>
     </tr>
     <tr>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Database_Management-A8D8EA?style=for-the-badge&logo=mysql&logoColor=white" alt="DBMS"/>
+        <img src="https://img.shields.io/badge/System_Design-6BCB77?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="System Design"/>
       </td>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Cloud_Computing-FFD93D?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud"/>
+        <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-F38181?style=for-the-badge&logo=leetcode&logoColor=white" alt="DSA"/>
       </td>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Problem_Solving-6BCB77?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Problem Solving"/>
+        <img src="https://img.shields.io/badge/Object_Oriented_Programming-AA96DA?style=for-the-badge&logo=cplusplus&logoColor=white" alt="OOP"/>
       </td>
     </tr>
   </table>
@@ -199,10 +199,10 @@ Expertise: Python, Java, JavaScript, Cloud, ML Pipelines
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbhishekGiri04&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AbhishekGiri04&color=00D9FF&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,20&height=150&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,20&height=150&section=footer&v=2" width="100%"/>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
