@@ -89,7 +89,7 @@ Expertise: Python, Java, JavaScript, Cloud, ML Pipelines
 ## 🖥️ Tech Stack:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,typescript,cpp,c,html,css,react,nextjs,nodejs,express,flask,tensorflow,opencv,tailwind,mongodb,mysql,aws,firebase,docker,git,github,vscode,arduino" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,typescript,cpp,c,html,css,react,nextjs,nodejs,express,flask,tensorflow,opencv,tailwind,mongodb,mysql,aws,firebase,docker,git,github,vscode,flutter,arduino" />
 </p>
 
 ---
