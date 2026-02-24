@@ -7,37 +7,51 @@
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI-ML+Enthusiast;IoT+Systems+Developer;App+Developer;Open+Source+Contributor&font=Fira+Code&center=true&width=600&height=50&color=00D9FF&vCenter=true&pause=1500&size=22&repeat=true&duration=3000" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI-ML+Enthusiast;IoT+Systems+Developer;App+Developer;Open+Source+Contributor&font=Fira+Code&center=true&width=600&height=50&color=0080FF&vCenter=true&pause=1500&size=22&repeat=true&duration=3000" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-</div>
-
-<h3 align="center">💻 Aspiring Software Engineer | Full-Stack Developer | AI/ML and IoT Explorer</h3>
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://agxdev.vercel.app)
 
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-<img align="right" height="300" src="https://github.com/user-attachments/assets/8a185987-a963-4d3f-bbff-c8176e299c76" alt="Laptop Person" />
+<img align="right" height="400" src="https://github.com/user-attachments/assets/8a185987-a963-4d3f-bbff-c8176e299c76" alt="Developer" />
 
 ## 💼 Professional Summary
 
+I'm a passionate **B.Tech CSE (AI & ML)** student at **GEHU (2023-2027)**, exploring innovative solutions at the intersection of technology and creativity.
+
 ```yaml
-Role: Aspiring Full Stack Developer & AI/ML Engineer
-Education: B.Tech CSE (AI & ML) | GEHU (2023-2027)
-Focus: Designing & Building Scalable Applications
+Role: Aspiring Full-Stack Developer & AI/ML Engineer
 Specialization: MERN Stack | AI/ML | IoT
-Expertise: Python, Java, JavaScript, Cloud, ML Pipelines
+Expertise: Python, Java, JavaScript, Cloud
+Education: B.Tech CSE (AI & ML) | GEHU
 ```
 
-**🎯 What I Bring:**
-- ✅ Full-stack development (Frontend + Backend + AI/ML)
-- ✅ Scalable architecture & database optimization
-- ✅ ML Model Deployment & Production Integration
-- ✅ National hackathon winner & problem solver
-- ✅ Open-source contributor
+### 🚀 What I'm Currently Building & Learning
+- 🧠 Strengthening my core in **DSA**, **System Design**, **DBMS**, **OS** & **Computer Networks** — so I don't just write code, I understand systems.
+- 🤖 Exploring **AI/ML**, **Deep Learning**, **NLP**, **LLMs** & **Generative AI** — focused on building intelligent applications, not just training models.
+- 🌐 Developing scalable **full-stack applications (MERN + Cloud + APIs)** — with clean architecture, authentication, performance optimization & deployment.
+- ⚙️ Learning how to design systems that are **efficient, fault-tolerant, and production-ready** — not just college projects.
+- 🎮 Experimenting with **AI + Gaming** concepts to blend logic with creativity.
+
+### 🏆 Achievements & Work Ethic
+- 🥇 **National Hackathon Winner** — delivered working solutions under pressure.
+- 🧑🏻‍💻 **Open-Source Contributor** — learning by building with real-world codebases.
+- 💡 **Serious Project Builder** — I prefer shipping projects over just collecting certificates.
+- 🌱 **Competitive Programmer** — strong problem-solving mindset and algorithmic thinking.
+
+<br>
+<img align="right" src="https://github.com/raturi7/Images/blob/2158fd17d549c224311c7dcbb69d52095fc8b40b/codeit.gif" alt="Code It" width="270" style="border-radius:5px" />
+
+### 🎯 What I Actually Bring to the Table
+- ✅ End-to-end Full-Stack Development + AI Integration
+- ✅ Taking ML models from training → API → deployment → production
+- ✅ Writing optimized, structured, and scalable code
+- ✅ Strong fundamentals + hunger to learn + consistency
+
+<br clear="right"/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhishekGiri04&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true" alt="Contribution Activity Graph" width="95%">
