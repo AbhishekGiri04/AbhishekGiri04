@@ -31,7 +31,7 @@ Education: B.Tech CSE (AI & ML) | GEHU
 
 ### 🚀 What I'm Currently Building & Learning
 - 🧠 Strengthening my core in **DSA**, **System Design**, **DBMS**, **OS** & **Computer Networks** — so I don't just write code, I understand systems.
-- 🤖 Exploring **AI/ML**, **Deep Learning**, **NLP**, **LLMs** & **Generative AI** — focused on building intelligent applications, not just training models.
+- 💻 Exploring **AI/ML**, **Deep Learning**, **NLP**, **LLMs** & **Generative AI** — focused on building intelligent applications, not just training models.
 - 🌐 Developing scalable **full-stack applications (MERN + Cloud + APIs)** — with clean architecture, authentication, performance optimization & deployment.
 - ⚙️ Learning how to design systems that are **efficient, fault-tolerant, and production-ready** — not just college projects.
 - 🎮 Experimenting with **AI + Gaming** concepts to blend logic with creativity.
@@ -70,22 +70,22 @@ Education: B.Tech CSE (AI & ML) | GEHU
 
 <p align="center">
   <a href="mailto:abhishekgiri1978@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=FF6B6B" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://portfolio-abhinova.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000&color=4ECDC4" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://agxdev.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000&color=6A0DAD" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
   <a href="https://www.linkedin.com/in/abhishek-giri04/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=45B7D1" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/AbhishekGiri04/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116&color=F39C12" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="https://linktr.ee/CodeAG.io" target="_blank">
-    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white&labelColor=39E09B&color=2ECC71" alt="Linktree" />
+    <img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
   </a>
 </p>
 
