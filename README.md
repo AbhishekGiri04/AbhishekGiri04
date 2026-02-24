@@ -103,7 +103,11 @@ Education: B.Tech CSE (AI & ML) | GEHU
 ## 🖥️ Tech Stack:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,typescript,cpp,c,html,css,react,nextjs,nodejs,express,flask,tensorflow,opencv,tailwind,mongodb,mysql,aws,firebase,docker,git,github,vscode,flutter,arduino" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,typescript,html,css,react,nextjs,tailwind,nodejs,express,fastapi,flask" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,mongodb,mysql,postgresql,sqlite,aws,docker,git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="48" height="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="48" height="48"/>
 </p>
 
 ---
