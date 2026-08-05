@@ -119,7 +119,7 @@ Education: B.Tech CSE (AI & ML) | GEHU
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=AbhishekGiri04&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekGiri04&theme=radical&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ### 💻 Language Distribution
@@ -127,10 +127,10 @@ Education: B.Tech CSE (AI & ML) | GEHU
 <table align="center">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbhishekGiri04&theme=radical" alt="Top Languages by Repository" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbhishekGiri04&layout=donut&theme=radical&hide_border=true&langs_count=8" alt="Top Languages by Repository" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbhishekGiri04&theme=radical" alt="Top Languages by Commit" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbhishekGiri04&layout=pie&theme=radical&hide_border=true&langs_count=8" alt="Top Languages by Commit" />
     </td>
   </tr>
 </table>
