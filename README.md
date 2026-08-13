@@ -119,7 +119,7 @@ Education: B.Tech CSE (AI & ML) | GEHU
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=AbhishekGiri04&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-streak-stats.vercel.app/?user=AbhishekGiri04&theme=radical&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ### 💻 Language Distribution
