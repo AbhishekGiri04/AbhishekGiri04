@@ -124,16 +124,9 @@ Education: B.Tech CSE (AI & ML) | GEHU
 
 ### 💻 Language Distribution
 
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=AbhishekGiri04&layout=donut&theme=radical&hide_border=true&langs_count=8" alt="Top Languages by Repository" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=AbhishekGiri04&layout=pie&theme=radical&hide_border=true&langs_count=8" alt="Top Languages by Commit" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=AbhishekGiri04&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
+</div>
 
 ---
 
