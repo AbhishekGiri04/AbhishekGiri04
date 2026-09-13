@@ -54,7 +54,7 @@ Education: B.Tech CSE (AI & ML) | GEHU
 <br clear="right"/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhishekGiri04&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&hide_border=true&custom_title=Contribution%20Graph&radius=8" width="95%" alt="Contribution Activity Graph"/>
+  <img src="https://raw.githubusercontent.com/AbhishekGiri04/AbhishekGiri04/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="95%"/>
 </div>
 
 ---
@@ -125,7 +125,7 @@ Education: B.Tech CSE (AI & ML) | GEHU
 ### 💻 Language Distribution
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekGiri04&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekGiri04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 ---
