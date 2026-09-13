@@ -54,7 +54,7 @@ Education: B.Tech CSE (AI & ML) | GEHU
 <br clear="right"/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhishekGiri04&theme=tokyonight" width="95%" alt="Contribution Graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhishekGiri04&theme=github_dark" width="95%" alt="Contribution Graph"/>
 </div>
 
 ---
